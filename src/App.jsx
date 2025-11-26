@@ -135,9 +135,6 @@ export default function App() {
                 Asegurar mi lugar
                 <ArrowRight size={18} />
               </Button>
-              <Button primary={false} className="flex items-center gap-2">
-                Ver Video <div className="w-2 h-2 bg-red-500 rounded-full animate-pulse shadow-[0_0_10px_red]"></div>
-              </Button>
             </div>
           </FadeInSection>
         </div>
@@ -155,7 +152,7 @@ export default function App() {
             <FadeInSection>
               <div className="relative rounded-3xl overflow-hidden shadow-2xl h-[500px] md:h-[700px] group bg-stone-200">
                 <img
-                  src="/Referencias/imagenes/caballo2.jpg"
+                  src="/imagenes/caballo2.jpg"
                   alt="Horses in water"
                   className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
                 />
