@@ -155,7 +155,7 @@ export default function App() {
             <FadeInSection>
               <div className="relative rounded-3xl overflow-hidden shadow-2xl h-[500px] md:h-[700px] group bg-stone-200">
                 <img
-                  src="/Referencias/imagenes/caballo1.jpg"
+                  src="/Referencias/imagenes/caballo2.jpg"
                   alt="Horses in water"
                   className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
                 />
